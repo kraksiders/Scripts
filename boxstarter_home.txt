@@ -12,6 +12,7 @@ cinst opera
 
 cinst avastfreeantivirus
 cinst winrar
+cinst 7zip
 cinst vlc
 cinst irfanview
 cinst irfanviewplugins
