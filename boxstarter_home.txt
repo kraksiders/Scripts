@@ -2,6 +2,7 @@ Set-ExplorerOptions -showProtectedOSFiles -showFileExtensions
 
 Enable-RemoteDesktop
 
+cinst chocolatey
 cinst adobereader
 cinst foxitreader
 cinst flashplayerplugin
@@ -10,20 +11,29 @@ cinst google-chrome-x64
 cinst firefox
 cinst opera
 
-cinst avastfreeantivirus
 cinst winrar
 cinst 7zip
 cinst vlc
 cinst irfanview
 cinst irfanviewplugins
 cinst notepadplusplus
-cinst gmail-growl
 cinst windirstat
 cinst skype
 
 cinst DropBox
 cinst Daemon Tools
+cinst qbittorrent
+cinst gitextensions
+cinst filezilla
+cinst putty
+cinst winscp
+cinst curl
+cinst procexp
+cinst sublimetext3
+cinst fiddler
+cinst fiddler4
+cinst pdfcreator
 
 cinstm javaruntime
 
-cinst picasa
+cinst avastfreeantivirus
